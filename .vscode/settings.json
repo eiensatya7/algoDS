@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "twoSum",
+        "romanToInteger",
+        "palindromeNumber",
+        "missingNumber",
+        "containsDuplicate",
+        "findAllNumbersDisappearedInAnArray"
+    ]
+}
